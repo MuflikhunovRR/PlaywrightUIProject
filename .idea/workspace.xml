@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1059b18b-a4b0-4459-b842-75f7dd104f67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gotoqa/constants/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gotoqa/constants/DataProviderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gotoqa/factory/PlaywrightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gotoqa/listeners/ExtentReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gotoqa/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gotoqa/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gotoqa/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gotoqa/tests/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gotoqa/tests/MainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.example-properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TgCy3odvj39lZ58TJt7C0oKB7Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/romanm/Documents/Work/java_src/PlaywrightUIProject/PlaywrightUIProject/src/test/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.gotoqa.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/romanm/Documents/Work/java_src/PlaywrightUIProject/PlaywrightUIProject/src/test/resources/testrunners/testng_regressions.xml">
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gotoqa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gotoqa.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.gotoqa.tests.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginPageNavitationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gotoqa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gotoqa.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.gotoqa.tests.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginPageNavitationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest" type="TestNG" nameIsGenerated="true">
+      <module name="PlaywrightUIProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gotoqa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ru.gotoqa.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.gotoqa.tests.MainPageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.testSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gotoqa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gotoqa.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.gotoqa.tests.MainPageTest" />
+      <option name="METHOD_NAME" value="testSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/romanm/Documents/Work/java_src/PlaywrightUIProject/PlaywrightUIProject/src/test/resources/testrunners/testng_regressions.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightUIProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testrunners/testng_regressions.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.chromium: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="chromium" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yaml.chromium: Compose Deployment" />
+      <item itemvalue="TestNG.MainPageTest" />
+      <item itemvalue="TestNG.MainPageTest.testSearch" />
+      <item itemvalue="TestNG./Users/romanm/Documents/Work/java_src/PlaywrightUIProject/PlaywrightUIProject/src/test/resources/testrunners/testng_regressions.xml" />
+      <item itemvalue="TestNG.LoginPageTest" />
+      <item itemvalue="TestNG.LoginPageTest.loginPageNavitationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/romanm/Documents/Work/java_src/PlaywrightUIProject/PlaywrightUIProject/src/test/resources/testrunners/testng_regressions.xml" />
+        <item itemvalue="TestNG.MainPageTest.testSearch" />
+        <item itemvalue="TestNG.LoginPageTest.loginPageNavitationTest" />
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="Docker.docker-compose.yaml.chromium: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1059b18b-a4b0-4459-b842-75f7dd104f67" name="Changes" comment="" />
+      <created>1691455589324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691455589324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
